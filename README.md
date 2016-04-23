@@ -6,6 +6,8 @@ It has two classes: `Ext.ux.WebSocket` and `Ext.ux.WebSocketManager`<br/>
 The first one is a wrapper for standard HTML5 WebSocket and it provides a lot of interesting and easy-to-use features.
 The second one is a singleton to register different Ext.ux.WebSocket and it provides functions to work with every registered websocket at the same time.
 
+[JSDuck Api Docs](http://jimueller.github.io/ExtJS-WebSocket/#!/api/Ext.ux.WebSocket)
+
 ## ExtJS 5
 The new version of ExtJS 5 has requested to make a new major version of `ExtJS-WebSocket`.
 Now, this new major version **v1.0.0** is located on the master branch.
